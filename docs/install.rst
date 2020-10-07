@@ -135,7 +135,7 @@ First verify that you've installed from the fermitools
 .. code-block:: bash
 
    $ conda activate fermi
-   $ which girfs
+   $ which gtirfs
 
 If this doesn't point to the gtirfs in your fermitools install then the
 fermitools are not properly set up.
@@ -146,7 +146,7 @@ that this environment includes python and pip
 .. code-block:: bash
 
    $ conda activate fermi
-   $ which girfs
+   $ which gtirfs
    $ which pip
 
 Both the gtirfs and pip should point to the versions installed in the
